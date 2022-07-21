@@ -76,9 +76,9 @@
 
   (net 0 "")
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 1ea05f7c-28ae-48ab-b818-53f0c668f323)
-    (at 174.5026 133.7448)
+    (at 174.50156 133.74496)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -128,8 +128,8 @@
     (fp_line (start -2.45 -2.35) (end -2.45 3.4) (layer "F.Fab") (width 0.1) (tstamp 769a978b-2501-4196-8543-6fd6496f2e12))
     (fp_line (start 4.95 3.4) (end 4.95 -2.35) (layer "F.Fab") (width 0.1) (tstamp a31a8e61-54d3-4176-a095-b75a65d6452c))
     (fp_line (start -2.45 3.4) (end 4.95 3.4) (layer "F.Fab") (width 0.1) (tstamp e00452c3-d1d0-4765-9eda-41d5f8649fdc))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp d7c5881a-d3a0-4571-b001-6fb0cf917542))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 0ce950eb-6497-41ea-a2e0-46d49542f1c6))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp d7c5881a-d3a0-4571-b001-6fb0cf917542))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 0ce950eb-6497-41ea-a2e0-46d49542f1c6))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -137,9 +137,9 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 29bef8ef-8787-4e9d-9e99-35e4975fa94f)
-    (at 182.9026 133.7448)
+    (at 182.90208 133.7448)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -189,8 +189,8 @@
     (fp_line (start 0 -1.35) (end 0.625 -2.35) (layer "F.Fab") (width 0.1) (tstamp 7f766e66-c387-4a2d-99b6-cf9499a8f082))
     (fp_line (start 4.95 3.4) (end 4.95 -2.35) (layer "F.Fab") (width 0.1) (tstamp efebe9bf-8312-4460-af60-0bfaf7516587))
     (fp_line (start 4.95 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp f0e8078b-3b55-4605-9716-aec9ea4c9fa0))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp c6be5335-7c71-42fe-a8c5-d03288a4db83))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp fccb750c-549e-4ae2-b991-5f670f800c2f))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp c6be5335-7c71-42fe-a8c5-d03288a4db83))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp fccb750c-549e-4ae2-b991-5f670f800c2f))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -200,7 +200,7 @@
 
   (footprint "PGA2040:PGA2040_PTH_NO_SLOT" (layer "F.Cu")
     (tedit 62CA6B60) (tstamp 2bd65219-686b-4ca4-9559-bd150a72775f)
-    (at 160 100.7)
+    (at 173 101.11)
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 0.787402 0.787402) (thickness 0.15)))
@@ -408,7 +408,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.6) (layers F&B.Cu *.Mask) (tstamp d1c81c48-4a0e-4446-b1e4-c791ed3e9932))
   )
 
-  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (layer "F.Cu")
+  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" locked (layer "F.Cu")
     (tedit 59FF03AB) (tstamp 4310a120-c843-4c44-a694-3d654bcf1e17)
     (at 117.57 133.45)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
@@ -440,8 +440,8 @@
     (fp_line (start 7.54 3.75) (end 7.54 -3.75) (layer "F.Fab") (width 0.1) (tstamp 70a72735-fe7c-429f-a04b-4d005efe9e94))
     (fp_line (start 7.54 -3.75) (end -2.46 -3.75) (layer "F.Fab") (width 0.1) (tstamp a89b62c4-b0f6-443d-9f91-821c35aaf946))
     (fp_line (start -2.46 -3.75) (end -2.46 3.75) (layer "F.Fab") (width 0.1) (tstamp aa6889be-8c6d-4c2c-bff3-6f640e2bf1c5))
-    (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 0f024807-a974-4f6a-a8c4-d3f843a5934b))
-    (pad "2" thru_hole circle (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 39dc9a94-b874-428d-8452-b172167a89ba))
+    (pad "1" thru_hole rect locked (at 0 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 0f024807-a974-4f6a-a8c4-d3f843a5934b))
+    (pad "2" thru_hole circle locked (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 39dc9a94-b874-428d-8452-b172167a89ba))
     (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.wrl"
       (offset (xyz 2.539999962 0 0))
       (scale (xyz 1 1 1))
@@ -449,7 +449,7 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 52f5def1-226c-4ea1-8b07-f264c6b64617)
     (at 157.6826 125.0748)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
@@ -501,8 +501,8 @@
     (fp_line (start 4.95 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp b96f4f91-c01b-400d-8308-140c57ed4c47))
     (fp_line (start -0.625 -2.35) (end 0 -1.35) (layer "F.Fab") (width 0.1) (tstamp d073adec-f689-4128-a0b5-d2527f974205))
     (fp_line (start 0 -1.35) (end 0.625 -2.35) (layer "F.Fab") (width 0.1) (tstamp d1b13d35-b0cb-45b5-90f2-20e46c61425d))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 66ea00d0-c8d3-4c3d-94ba-650beb1f9a8d))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 4f0cabd4-9b02-4df3-adff-1cce59cebd96))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 66ea00d0-c8d3-4c3d-94ba-650beb1f9a8d))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 4f0cabd4-9b02-4df3-adff-1cce59cebd96))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -510,9 +510,9 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 5e99007b-b735-4c4c-8f49-c89079dd6f7b)
-    (at 166.0926 125.0748)
+    (at 166.0926 125.0749)
     (descr "JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -562,9 +562,9 @@
     (fp_line (start -0.625 -2.35) (end 0 -1.35) (layer "F.Fab") (width 0.1) (tstamp 88954d0a-88cc-4ce3-8c4c-53a0271dd23d))
     (fp_line (start 7.45 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp 90400b82-2b13-41e2-92a1-fbc4c1f7ce7e))
     (fp_line (start -2.45 -2.35) (end -2.45 3.4) (layer "F.Fab") (width 0.1) (tstamp c4266831-9bd8-4b4e-9da9-f30594ff1c2e))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 52c2c7a4-6308-4142-890e-222d009bfb01))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp d2dd3aca-2fc8-4a38-a643-06e4176dfa36))
-    (pad "3" thru_hole oval (at 5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 8f2cbc56-8694-45c7-ab87-25e7e0e09960))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 52c2c7a4-6308-4142-890e-222d009bfb01))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp d2dd3aca-2fc8-4a38-a643-06e4176dfa36))
+    (pad "3" thru_hole oval locked (at 5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 8f2cbc56-8694-45c7-ab87-25e7e0e09960))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -595,7 +595,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.6) (layers F&B.Cu *.Mask) (tstamp 12d05e0f-64ad-4cf9-9ce6-7117ef4dc551))
   )
 
-  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (layer "F.Cu")
+  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" locked (layer "F.Cu")
     (tedit 59FF03AB) (tstamp 65d3b42f-b31a-47a7-8433-e1b7e80a37e7)
     (at 108.4 129.66 -90)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
@@ -627,8 +627,8 @@
     (fp_line (start -2.46 -3.75) (end -2.46 3.75) (layer "F.Fab") (width 0.1) (tstamp 566db734-d9f9-4a5c-b6ae-f504bfd4ee28))
     (fp_line (start -2.46 3.75) (end 7.54 3.75) (layer "F.Fab") (width 0.1) (tstamp 6eec5cdd-f749-457d-a625-ce93c33331fa))
     (fp_line (start -2.41 2.55) (end 7.49 2.55) (layer "F.Fab") (width 0.1) (tstamp ac9fe2e1-54b8-436d-be16-65b1d7b4a4aa))
-    (pad "1" thru_hole rect (at 0 0 270) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 7d0e501a-396e-47cd-b7fb-f85a12577a86))
-    (pad "2" thru_hole circle (at 5.08 0 270) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp e21be02d-c56c-46e8-b1ae-042ec537d6dd))
+    (pad "1" thru_hole rect locked (at 0 0 270) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 7d0e501a-396e-47cd-b7fb-f85a12577a86))
+    (pad "2" thru_hole circle locked (at 5.08 0 270) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp e21be02d-c56c-46e8-b1ae-042ec537d6dd))
     (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.wrl"
       (offset (xyz 2.539999962 0 0))
       (scale (xyz 1 1 1))
@@ -636,9 +636,9 @@
     )
   )
 
-  (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (layer "F.Cu")
+  (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" locked (layer "F.Cu")
     (tedit 5D3C0721) (tstamp 6e29cdc4-2486-489c-9d02-e0300f5606fb)
-    (at 198.8776 93.8948 90)
+    (at 198.79 93.89 90)
     (descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
     (tags "usb usb-c 2.0 pd")
     (attr smd)
@@ -667,28 +667,28 @@
     (fp_line (start -4.47 -3.65) (end 4.47 -3.65) (layer "F.Fab") (width 0.1) (tstamp 58440efe-acde-4fec-9186-11fe790ea093))
     (fp_line (start -4.47 -3.65) (end -4.47 3.65) (layer "F.Fab") (width 0.1) (tstamp bb25714a-9004-49ec-b181-04bc15506d87))
     (fp_line (start -4.47 3.65) (end 4.47 3.65) (layer "F.Fab") (width 0.1) (tstamp bf994af4-f1fc-4d7e-8210-1f938ce9212f))
-    (pad "" np_thru_hole circle (at 2.89 -2.6 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 094c9084-e857-4028-b783-eca01fcd6ebf))
-    (pad "" np_thru_hole circle (at -2.89 -2.6 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 6f10288e-6077-4ac3-b8ae-94e3f7025b6d))
-    (pad "A1" smd rect (at -3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7ead68ff-44ac-40e4-bd46-bff4546c804c))
-    (pad "A4" smd rect (at -2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 03a8225f-dacc-4310-a45d-8d9fefac6684))
-    (pad "A5" smd rect (at -1.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 41993d9d-57e6-45e9-95a8-874447b15f86))
-    (pad "A6" smd rect (at -0.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d9d6c5a0-69f2-4929-b8ec-cbeb842c7a0c))
-    (pad "A7" smd rect (at 0.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp baf27b95-6442-420d-be6d-608bbead0846))
-    (pad "A8" smd rect (at 1.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c728daf-c87f-485b-b35b-a67d1b1c177d))
-    (pad "A9" smd rect (at 2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e75f98f9-b7d6-4e8b-a432-fdf23b6ac9e4))
-    (pad "A12" smd rect (at 3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8abf18be-d9f0-48e0-b5d0-8fb879d80028))
-    (pad "B1" smd rect (at 3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b0f9c664-853c-4b7c-92ae-36f3beddd4b2))
-    (pad "B4" smd rect (at 2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bfd11f8-652d-496d-8207-e3915a35a52d))
-    (pad "B5" smd rect (at 1.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c38efcbf-a512-4217-849c-9e92fce0223c))
-    (pad "B6" smd rect (at 0.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0412b91b-81a2-4a76-8e28-f3536d3411e8))
-    (pad "B7" smd rect (at -0.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d831e85-2122-4d7d-8aed-80b308d0a411))
-    (pad "B8" smd rect (at -1.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c8526a1-c742-42d8-acf8-4c6e1c395b31))
-    (pad "B9" smd rect (at -2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e4678f3-1b30-44d1-b686-1e5df4ca68f9))
-    (pad "B12" smd rect (at -3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bc1df470-e1cc-4135-af09-3287af43daa2))
-    (pad "S1" thru_hole oval (at 4.32 1.05 90) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 3e534164-0555-401d-984b-196b394746c1))
-    (pad "S1" thru_hole oval (at -4.32 1.05 90) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 3fc9cd3a-fbd6-4aff-98cb-d2531bd496a2))
-    (pad "S1" thru_hole oval (at -4.32 -3.13 90) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 4231e8df-1654-4bef-8185-3ea4e8d27947))
-    (pad "S1" thru_hole oval (at 4.32 -3.13 90) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 8b909a27-8fa8-4bb0-a578-2ef4f44cd353))
+    (pad "" np_thru_hole circle locked (at 2.89 -2.6 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 094c9084-e857-4028-b783-eca01fcd6ebf))
+    (pad "" np_thru_hole circle locked (at -2.89 -2.6 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 6f10288e-6077-4ac3-b8ae-94e3f7025b6d))
+    (pad "A1" smd rect locked (at -3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7ead68ff-44ac-40e4-bd46-bff4546c804c))
+    (pad "A4" smd rect locked (at -2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 03a8225f-dacc-4310-a45d-8d9fefac6684))
+    (pad "A5" smd rect locked (at -1.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 41993d9d-57e6-45e9-95a8-874447b15f86))
+    (pad "A6" smd rect locked (at -0.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d9d6c5a0-69f2-4929-b8ec-cbeb842c7a0c))
+    (pad "A7" smd rect locked (at 0.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp baf27b95-6442-420d-be6d-608bbead0846))
+    (pad "A8" smd rect locked (at 1.25 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c728daf-c87f-485b-b35b-a67d1b1c177d))
+    (pad "A9" smd rect locked (at 2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e75f98f9-b7d6-4e8b-a432-fdf23b6ac9e4))
+    (pad "A12" smd rect locked (at 3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8abf18be-d9f0-48e0-b5d0-8fb879d80028))
+    (pad "B1" smd rect locked (at 3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b0f9c664-853c-4b7c-92ae-36f3beddd4b2))
+    (pad "B4" smd rect locked (at 2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bfd11f8-652d-496d-8207-e3915a35a52d))
+    (pad "B5" smd rect locked (at 1.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c38efcbf-a512-4217-849c-9e92fce0223c))
+    (pad "B6" smd rect locked (at 0.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0412b91b-81a2-4a76-8e28-f3536d3411e8))
+    (pad "B7" smd rect locked (at -0.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d831e85-2122-4d7d-8aed-80b308d0a411))
+    (pad "B8" smd rect locked (at -1.75 -4.045 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c8526a1-c742-42d8-acf8-4c6e1c395b31))
+    (pad "B9" smd rect locked (at -2.45 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e4678f3-1b30-44d1-b686-1e5df4ca68f9))
+    (pad "B12" smd rect locked (at -3.25 -4.045 90) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bc1df470-e1cc-4135-af09-3287af43daa2))
+    (pad "S1" thru_hole oval locked (at 4.32 1.05 90) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 3e534164-0555-401d-984b-196b394746c1))
+    (pad "S1" thru_hole oval locked (at -4.32 1.05 90) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 3fc9cd3a-fbd6-4aff-98cb-d2531bd496a2))
+    (pad "S1" thru_hole oval locked (at -4.32 -3.13 90) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 4231e8df-1654-4bef-8185-3ea4e8d27947))
+    (pad "S1" thru_hole oval locked (at 4.32 -3.13 90) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 8b909a27-8fa8-4bb0-a578-2ef4f44cd353))
     (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -696,9 +696,9 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 75a1a788-1c20-4127-9717-7e9901f60c8b)
-    (at 157.7026 133.7448)
+    (at 157.70052 133.74488)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -748,8 +748,8 @@
     (fp_line (start 4.95 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp d96477b3-7900-4cf5-8976-ba3477d8c909))
     (fp_line (start -0.625 -2.35) (end 0 -1.35) (layer "F.Fab") (width 0.1) (tstamp e32e215a-90f7-4479-bdb5-595e72ba1cd8))
     (fp_line (start -2.45 3.4) (end 4.95 3.4) (layer "F.Fab") (width 0.1) (tstamp e68cd3fb-fff1-4ab6-8662-e1ce17ce53bd))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 7f7e2f32-523d-43fe-a420-2596402f187c))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp ea853825-07da-4b89-9052-e73dca2307b3))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 7f7e2f32-523d-43fe-a420-2596402f187c))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp ea853825-07da-4b89-9052-e73dca2307b3))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -757,9 +757,9 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 79d5c4d2-48a7-478f-bba4-f064676a66ba)
-    (at 191.3026 133.7448)
+    (at 191.3026 133.74484)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -809,8 +809,8 @@
     (fp_line (start 4.95 3.4) (end 4.95 -2.35) (layer "F.Fab") (width 0.1) (tstamp 66efb5ef-7de7-4a77-bac2-08a29d6a17e2))
     (fp_line (start -2.45 -2.35) (end -2.45 3.4) (layer "F.Fab") (width 0.1) (tstamp c507c103-6b6a-41c9-a111-7f4b06950ccc))
     (fp_line (start 0 -1.35) (end 0.625 -2.35) (layer "F.Fab") (width 0.1) (tstamp fbcd19c8-1214-4fd5-a766-a22db1de042a))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp a2985d95-791d-4dcb-bca4-ec4e8f739351))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 36131e20-1ef5-498c-b594-ad7381ef6a62))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp a2985d95-791d-4dcb-bca4-ec4e8f739351))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 36131e20-1ef5-498c-b594-ad7381ef6a62))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -818,9 +818,9 @@
     )
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp 86dd1a8f-5ad4-4ad9-89ca-604e312dbe09)
-    (at 149.3026 133.7248)
+    (at 149.28 133.745)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -870,8 +870,8 @@
     (fp_line (start 0 -1.35) (end 0.625 -2.35) (layer "F.Fab") (width 0.1) (tstamp ac2361fa-bfaf-423e-9b9e-82f581a396f0))
     (fp_line (start 4.95 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp e5679ae5-9f92-4a37-917b-e952ac77a018))
     (fp_line (start -0.625 -2.35) (end 0 -1.35) (layer "F.Fab") (width 0.1) (tstamp f51890fa-d5a0-4324-860e-eebf1330f551))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp ef38d8e7-866a-4638-8e70-e8eb7ebdb95e))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 766e977b-6912-4393-a464-053b5dfa5c91))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp ef38d8e7-866a-4638-8e70-e8eb7ebdb95e))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 766e977b-6912-4393-a464-053b5dfa5c91))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -963,9 +963,9 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.6) (layers F&B.Cu *.Mask) (tstamp 2daf5c86-8368-4dcd-847d-7215ccc1a872))
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp c6f14651-15ad-44d2-88f3-8e963adf929f)
-    (at 166.1026 133.7448)
+    (at 166.10104 133.74492)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -1015,8 +1015,8 @@
     (fp_line (start 4.95 -2.35) (end -2.45 -2.35) (layer "F.Fab") (width 0.1) (tstamp 8f341120-4cae-496a-97e3-9637b42b3b67))
     (fp_line (start -2.45 -2.35) (end -2.45 3.4) (layer "F.Fab") (width 0.1) (tstamp b65c6f7c-3a10-4cac-b858-eab5ba34230f))
     (fp_line (start -2.45 3.4) (end 4.95 3.4) (layer "F.Fab") (width 0.1) (tstamp f947f91e-1e3c-4c47-a527-5a5776676f70))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp bcb17bbe-6445-448c-a5a5-a03d5e4f4e0f))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 25381501-4e26-4b1c-8c4a-060c411e909c))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp bcb17bbe-6445-448c-a5a5-a03d5e4f4e0f))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 25381501-4e26-4b1c-8c4a-060c411e909c))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -1024,9 +1024,9 @@
     )
   )
 
-  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (layer "F.Cu")
+  (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" locked (layer "F.Cu")
     (tedit 59FF03AB) (tstamp d6d0a9b9-cf8a-400d-87fa-1416304e73d1)
-    (at 128.6 133.43)
+    (at 128.6 133.45)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
     (attr through_hole)
@@ -1056,8 +1056,8 @@
     (fp_line (start 7.54 3.75) (end 7.54 -3.75) (layer "F.Fab") (width 0.1) (tstamp 95643046-76eb-4caf-acd6-ebfada574202))
     (fp_line (start -2.46 3.75) (end 7.54 3.75) (layer "F.Fab") (width 0.1) (tstamp 9dcbac58-6e59-4579-abcd-824055867845))
     (fp_line (start -2.46 -3.75) (end -2.46 3.75) (layer "F.Fab") (width 0.1) (tstamp c739f382-4ece-437f-b0e3-5da015020e17))
-    (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp e2226f64-4a66-4a1c-b225-2f7853140bfb))
-    (pad "2" thru_hole circle (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp f0921eff-4318-4ab8-b606-522407bdc050))
+    (pad "1" thru_hole rect locked (at 0 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp e2226f64-4a66-4a1c-b225-2f7853140bfb))
+    (pad "2" thru_hole circle locked (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp f0921eff-4318-4ab8-b606-522407bdc050))
     (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.wrl"
       (offset (xyz 2.539999962 0 0))
       (scale (xyz 1 1 1))
@@ -1088,9 +1088,9 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.6) (layers F&B.Cu *.Mask) (tstamp 9f9953f1-3130-4dfe-bdc6-b4acc623f447))
   )
 
-  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (layer "F.Cu")
+  (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" locked (layer "F.Cu")
     (tedit 5C28146C) (tstamp ff1500b0-8d24-4ca3-b94e-74173a492e58)
-    (at 149.2826 125.0548)
+    (at 149.28 125.075)
     (descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH vertical")
     (attr through_hole)
@@ -1140,8 +1140,8 @@
     (fp_line (start -2.45 3.4) (end 4.95 3.4) (layer "F.Fab") (width 0.1) (tstamp 9188fd07-6a2a-4367-bfad-46d30c385673))
     (fp_line (start 4.95 3.4) (end 4.95 -2.35) (layer "F.Fab") (width 0.1) (tstamp 9c4a7548-8d15-4104-bda7-5020976a9563))
     (fp_line (start -0.625 -2.35) (end 0 -1.35) (layer "F.Fab") (width 0.1) (tstamp ec39282b-c3f1-4567-bff7-00dc86f0824b))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp be1081d1-6761-4d35-abec-3013782c326b))
-    (pad "2" thru_hole oval (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 6a108eb1-456e-40ac-88af-10b3248ce01d))
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp be1081d1-6761-4d35-abec-3013782c326b))
+    (pad "2" thru_hole oval locked (at 2.5 0) (size 1.7 2) (drill 1) (layers *.Cu *.Mask) (tstamp 6a108eb1-456e-40ac-88af-10b3248ce01d))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -1149,319 +1149,59 @@
     )
   )
 
-  (gr_poly
-    (pts
-      (xy 189.1476 75.768)
-      (xy 187.4204 75.768)
-      (xy 187.4204 76.4284)
-      (xy 189.1476 76.4284)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 34101938-6f87-42e3-92bf-e693d7de5100))
-  (gr_poly
-    (pts
-      (xy 189.1476 77.9778)
-      (xy 187.4204 77.9778)
-      (xy 187.4204 78.6382)
-      (xy 189.1476 78.6382)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 3af4919f-234a-4091-82e4-bbc4ef7d803c))
-  (gr_poly
-    (pts
-      (xy 189.1476 82.372)
-      (xy 187.4204 82.372)
-      (xy 187.4204 83.0324)
-      (xy 189.1476 83.0324)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 50102418-e245-444b-8a3b-ba79cb11930c))
-  (gr_poly
-    (pts
-      (xy 190.5446 84.4802)
-      (xy 188.6142 84.4802)
-      (xy 188.6142 85.801)
-      (xy 190.5446 85.801)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 5641e13d-9d49-4f84-90cb-b164323ddac2))
-  (gr_poly
-    (pts
-      (xy 200.1458 84.2516)
-      (xy 197.4534 84.2516)
-      (xy 197.4534 86.3344)
-      (xy 200.1458 86.3344)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 6a0e63e0-eb80-4915-8437-97e97f528d4a))
-  (gr_poly
-    (pts
-      (xy 189.1476 74.6758)
-      (xy 187.4204 74.6758)
-      (xy 187.4204 75.3362)
-      (xy 189.1476 75.3362)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 79ebaa4f-9982-4fdb-9260-97199bbeb192))
-  (gr_poly
-    (pts
-      (xy 189.1476 83.4896)
-      (xy 187.4204 83.4896)
-      (xy 187.4204 84.15)
-      (xy 189.1476 84.15)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp ab0d43f7-8215-4a16-b924-9c9662b74f54))
-  (gr_poly
-    (pts
-      (xy 200.0742 68.3378)
-      (xy 197.4742 68.3378)
-      (xy 197.4742 69.8378)
-      (xy 200.0742 69.8378)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp ab29fcb9-813c-4ca2-950c-cb8fccde4b78))
-  (gr_poly
-    (pts
-      (xy 190.1382 69.4942)
-      (xy 188.411 69.4942)
-      (xy 188.411 71.2722)
-      (xy 190.1382 71.2722)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp b3e9470f-470f-474d-b3f3-3ff50aa7d44d))
-  (gr_poly
-    (pts
-      (xy 189.1476 79.07)
-      (xy 187.4204 79.07)
-      (xy 187.4204 79.7304)
-      (xy 189.1476 79.7304)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp bc53dab2-dd13-4cb0-ad3b-09b90a12db3f))
-  (gr_poly
-    (pts
-      (xy 189.1476 80.1876)
-      (xy 187.4204 80.1876)
-      (xy 187.4204 80.848)
-      (xy 189.1476 80.848)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp d62db1a0-bcf1-4fc3-8d62-ca87f68d9058))
-  (gr_poly
-    (pts
-      (xy 189.1476 81.2798)
-      (xy 187.4204 81.2798)
-      (xy 187.4204 81.9402)
-      (xy 189.1476 81.9402)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp ea90245a-4bbc-4a6b-bc8f-604a8efbe927))
-  (gr_poly
-    (pts
-      (xy 189.1476 76.8856)
-      (xy 187.4204 76.8856)
-      (xy 187.4204 77.546)
-      (xy 189.1476 77.546)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp fa7a5713-4073-4963-be4d-dcc74084c3a1))
-  (gr_poly
-    (pts
-      (xy 190.5446 84.4802)
-      (xy 188.6142 84.4802)
-      (xy 188.6142 85.801)
-      (xy 190.5446 85.801)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 02e5a16b-0744-4e4a-8250-95cd92c45f82))
-  (gr_poly
-    (pts
-      (xy 200.1458 84.2516)
-      (xy 197.4534 84.2516)
-      (xy 197.4534 86.3344)
-      (xy 200.1458 86.3344)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 22fb516d-3a25-4b2f-91bf-360b6e475edf))
-  (gr_poly
-    (pts
-      (xy 189.1476 83.4896)
-      (xy 187.4204 83.4896)
-      (xy 187.4204 84.15)
-      (xy 189.1476 84.15)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 2afefd56-a3cd-46b9-b96d-87382998f9a3))
-  (gr_poly
-    (pts
-      (xy 189.1476 80.1876)
-      (xy 187.4204 80.1876)
-      (xy 187.4204 80.848)
-      (xy 189.1476 80.848)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 34c587c1-5f40-4ae9-855e-1735f72e0c1e))
-  (gr_poly
-    (pts
-      (xy 189.1476 76.8856)
-      (xy 187.4204 76.8856)
-      (xy 187.4204 77.546)
-      (xy 189.1476 77.546)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 4497f450-a6e2-4bee-b47d-cfb7a978ce1b))
-  (gr_poly
-    (pts
-      (xy 189.1476 82.372)
-      (xy 187.4204 82.372)
-      (xy 187.4204 83.0324)
-      (xy 189.1476 83.0324)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 4674f82a-2e6a-4a02-89cc-e4a0634e260e))
-  (gr_poly
-    (pts
-      (xy 189.1476 77.9778)
-      (xy 187.4204 77.9778)
-      (xy 187.4204 78.6382)
-      (xy 189.1476 78.6382)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 7a18ad3f-e40c-4ac2-9978-3fc5c1a958ea))
-  (gr_poly
-    (pts
-      (xy 200.0742 68.3378)
-      (xy 197.4742 68.3378)
-      (xy 197.4742 69.8378)
-      (xy 200.0742 69.8378)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 8cdbc4f3-db4c-4fa8-9f7d-c2543efea534))
-  (gr_poly
-    (pts
-      (xy 189.1476 79.07)
-      (xy 187.4204 79.07)
-      (xy 187.4204 79.7304)
-      (xy 189.1476 79.7304)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp 9df091e0-d393-4a98-9952-089958dc3b6a))
-  (gr_poly
-    (pts
-      (xy 189.1476 75.768)
-      (xy 187.4204 75.768)
-      (xy 187.4204 76.4284)
-      (xy 189.1476 76.4284)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp ad84359b-4b8c-475c-9ace-c6e7c9b830f2))
-  (gr_poly
-    (pts
-      (xy 189.1476 81.2798)
-      (xy 187.4204 81.2798)
-      (xy 187.4204 81.9402)
-      (xy 189.1476 81.9402)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp cc3eb6ae-868c-40a3-be25-aef28e810693))
-  (gr_poly
-    (pts
-      (xy 190.1382 69.4942)
-      (xy 188.411 69.4942)
-      (xy 188.411 71.2722)
-      (xy 190.1382 71.2722)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp f5844583-0ee9-4a1d-a7fc-b4a04170f175))
-  (gr_poly
-    (pts
-      (xy 189.1476 74.6758)
-      (xy 187.4204 74.6758)
-      (xy 187.4204 75.3362)
-      (xy 189.1476 75.3362)
-    ) (layer "F.Paste") (width 0) (fill solid) (tstamp fb050baf-69db-4980-93da-c01d2c70b340))
-  (gr_line (start 188.2078 70.9166) (end 202.7366 70.9166) (layer "F.SilkS") (width 0.2032) (tstamp 008574c7-674b-41f1-8712-8562b74de4a1))
-  (gr_line (start 188.2078 84.4294) (end 188.2078 70.9166) (layer "F.SilkS") (width 0.2032) (tstamp 1239518c-4ec6-42e0-958a-e23e2a7ef70a))
-  (gr_line (start 188.2078 84.4294) (end 202.762 84.4294) (layer "F.SilkS") (width 0.2032) (tstamp b32ccf87-cd0e-4684-8c89-4d29004d8540))
-  (gr_poly
-    (pts
-      (xy 189.2492 81.1782)
-      (xy 187.3188 81.1782)
-      (xy 187.3188 82.0418)
-      (xy 189.2492 82.0418)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 0e8a11c5-e1a6-4910-b0d0-caa88baeb596))
-  (gr_poly
-    (pts
-      (xy 189.2492 83.388)
-      (xy 187.3188 83.388)
-      (xy 187.3188 84.2516)
-      (xy 189.2492 84.2516)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 1f7d66bf-68df-426b-bee5-8ac21db835a3))
-  (gr_poly
-    (pts
-      (xy 200.1758 68.2362)
-      (xy 197.3726 68.2362)
-      (xy 197.3726 69.9394)
-      (xy 200.1758 69.9394)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 26cdb1d3-d536-43f9-ac0a-2aeddf92ab2f))
-  (gr_poly
-    (pts
-      (xy 189.2492 76.784)
-      (xy 187.3188 76.784)
-      (xy 187.3188 77.6476)
-      (xy 189.2492 77.6476)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 2ff265b4-5d46-4129-a89e-a3ab8da859d3))
-  (gr_poly
-    (pts
-      (xy 189.2492 77.8762)
-      (xy 187.3188 77.8762)
-      (xy 187.3188 78.7398)
-      (xy 189.2492 78.7398)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 60c0c8cd-ed2d-4840-aeb4-1067b7168db0))
-  (gr_poly
-    (pts
-      (xy 200.2474 84.15)
-      (xy 197.3518 84.15)
-      (xy 197.3518 86.436)
-      (xy 200.2474 86.436)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 6dab5552-4754-486c-8072-e14a3f819e85))
-  (gr_poly
-    (pts
-      (xy 189.2492 80.086)
-      (xy 187.3188 80.086)
-      (xy 187.3188 80.9496)
-      (xy 189.2492 80.9496)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 706b5319-cfa4-4e48-bf9c-c67df2f8051a))
-  (gr_poly
-    (pts
-      (xy 189.2492 82.2704)
-      (xy 187.3188 82.2704)
-      (xy 187.3188 83.134)
-      (xy 189.2492 83.134)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 83c713ea-1035-4ee9-9845-d302c1d759ed))
-  (gr_poly
-    (pts
-      (xy 189.2492 74.5742)
-      (xy 187.3188 74.5742)
-      (xy 187.3188 75.4378)
-      (xy 189.2492 75.4378)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp 9d2622b8-853e-44a7-9a01-6059591b29d2))
-  (gr_poly
-    (pts
-      (xy 189.2492 75.6664)
-      (xy 187.3188 75.6664)
-      (xy 187.3188 76.53)
-      (xy 189.2492 76.53)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp bdeb78ed-ff36-4561-8391-ff4ee13c3fb8))
-  (gr_poly
-    (pts
-      (xy 189.2492 78.9684)
-      (xy 187.3188 78.9684)
-      (xy 187.3188 79.832)
-      (xy 189.2492 79.832)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp d79931b2-a50b-4dee-a652-891a86cd8946))
-  (gr_poly
-    (pts
-      (xy 190.2398 69.3926)
-      (xy 188.3094 69.3926)
-      (xy 188.3094 71.3738)
-      (xy 190.2398 71.3738)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp d84c5279-2880-4995-9f75-e5f4f52b177b))
-  (gr_poly
-    (pts
-      (xy 190.6462 84.3786)
-      (xy 188.5126 84.3786)
-      (xy 188.5126 85.9026)
-      (xy 190.6462 85.9026)
-    ) (layer "F.Mask") (width 0) (fill solid) (tstamp eb59064a-78cf-4cb0-a702-d58d56621708))
-  (gr_poly
-    (pts
-      (xy 152.4 95.4)
-      (xy 155 95.4)
-      (xy 155 105.7)
-      (xy 150 105.7)
-      (xy 150 93.1)
-      (xy 152.4 93.1)
-    ) (layer "Eco1.User") (width 0.15) (fill solid) (tstamp 6769234e-f013-49f1-befb-382657171e54))
-  (gr_poly
-    (pts
-      (xy 152.4 105.7)
-      (xy 152.4 108.2)
-      (xy 154.8 108.2)
-      (xy 154.8 110.7)
-      (xy 150 110.7)
-      (xy 150 105.7)
-    ) (layer "Eco1.User") (width 0.15) (fill solid) (tstamp a8927e32-7df6-406c-ab7c-7e79aaf0fc33))
   (gr_line (start 102.1024 67.7448) (end 102.1024 138.0948) (layer "Edge.Cuts") (width 0.0254) (tstamp 6bf9443d-5f81-46fb-a919-de4a0a678696))
   (gr_line (start 202.9526 67.7448) (end 102.1024 67.7448) (layer "Edge.Cuts") (width 0.0254) (tstamp 7b30531a-de08-43f6-8a74-8c032fb2cd96))
   (gr_line (start 202.9526 138.0948) (end 202.9526 67.7448) (layer "Edge.Cuts") (width 0.0254) (tstamp 7c053680-a9ce-4fd3-8b53-7a42b38e588b))
   (gr_line (start 102.1024 138.0948) (end 202.9526 138.0948) (layer "Edge.Cuts") (width 0.0254) (tstamp e9b73766-7c0a-4d0f-9e96-bb6ddbc25578))
+  (gr_text "Z-STOP" (at 175.75156 129.91) (layer "F.SilkS") (tstamp 09d1d57a-1803-4472-89b1-930e2a1e0e82)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "FAN3" (at 158.9326 121.12) (layer "F.SilkS") (tstamp 2912bce2-10d1-40ed-a00a-ce64c3f5fd6d)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "24V IN" (at 113.55 132.2 270) (layer "F.SilkS") (tstamp 34847ebc-53e9-4942-b212-036108fbb40b)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "FAN1" (at 150.53 129.91) (layer "F.SilkS") (tstamp 3b955201-1cae-4631-97ed-17a8ebcebb27)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "HE0" (at 192.5526 129.91) (layer "F.SilkS") (tstamp 4d53c509-8cf1-436b-92b1-b45148cd6d33)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "Y-STOP" (at 167.35104 129.91) (layer "F.SilkS") (tstamp 75781791-89dd-49cc-91ec-7a523e0ff680)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "HB-OUT" (at 120.11 128.28) (layer "F.SilkS") (tstamp 8e49c3a5-ead6-41ee-b610-0ec5c1c8f146)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "X-STOP" (at 158.95052 129.91) (layer "F.SilkS") (tstamp 9fde89c4-a95f-48b3-8e6c-1b994291b81a)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "USB-C" (at 198.9124 93.9952) (layer "F.SilkS") (tstamp a29d256b-a496-4961-bb5e-626a482abb8f)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "HB" (at 184.15208 129.91) (layer "F.SilkS") (tstamp c88328c4-4838-42e9-8f57-44a03bef89e5)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "FAN2" (at 150.53 121.12) (layer "F.SilkS") (tstamp cd72b7fd-072b-481a-aa5b-e2aed6f20a38)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "E0-STOP" (at 168.5926 121.12) (layer "F.SilkS") (tstamp d89ab2d0-1a8d-4f69-a5e7-a3be9d14396e)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "HE0-OUT" (at 131.14 128.28) (layer "F.SilkS") (tstamp e24a770e-18ca-4b6c-9460-413e9ac0d131)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 195.9026 94.4198) (end 195.9026 93.8948) (width 0.25) (layer "F.Cu") (net 0) (tstamp 0bda585e-31fd-48e6-a62f-35e5f24cbbcd))
-  (segment (start 156.19 94.35) (end 156.19 91.81) (width 0.2) (layer "F.Cu") (net 0) (tstamp 18fe988c-5c09-4b7a-8330-ddd855f0de55))
   (segment (start 193.8026 93.3948) (end 194.0526 93.1448) (width 0.25) (layer "F.Cu") (net 0) (tstamp 2adab915-f983-4715-8387-2900fd5dc873))
   (segment (start 193.8026 93.8948) (end 193.8026 93.3948) (width 0.25) (layer "F.Cu") (net 0) (tstamp 2e1b2237-22eb-461d-b952-286dad444fe3))
-  (segment (start 153.65 90.45) (end 152.4 89.2) (width 0.2) (layer "F.Cu") (net 0) (tstamp 31d29645-fe5e-470c-b958-8759a3dcd4a7))
   (segment (start 194.8326 94.6448) (end 195.6776 94.6448) (width 0.25) (layer "F.Cu") (net 0) (tstamp 331d167b-c5d4-4426-8840-a05d389d0dab))
-  (segment (start 153.65 91.81) (end 153.65 90.45) (width 0.2) (layer "F.Cu") (net 0) (tstamp 5f1ca44e-09aa-4d93-b0a0-dcedd0aea710))
   (segment (start 195.9026 93.8948) (end 195.6526 93.6448) (width 0.25) (layer "F.Cu") (net 0) (tstamp 5f2fa9b9-1488-4dcd-9413-52a13eee94e4))
   (segment (start 194.0526 94.1448) (end 193.8026 93.8948) (width 0.25) (layer "F.Cu") (net 0) (tstamp 9a7ef0c4-65ac-4fb9-a804-1ecba2bfe549))
-  (segment (start 156.19 91.81) (end 153.65 91.81) (width 0.2) (layer "F.Cu") (net 0) (tstamp a5256b24-ab97-4bc2-a74d-0c753e7db1cf))
   (segment (start 195.6526 93.6448) (end 194.8326 93.6448) (width 0.25) (layer "F.Cu") (net 0) (tstamp b531a099-7f27-43cc-b629-daa863e5840c))
   (segment (start 194.0526 93.1448) (end 194.8326 93.1448) (width 0.25) (layer "F.Cu") (net 0) (tstamp c9c79d57-2929-4ab7-a977-e2569651a8c5))
   (segment (start 195.6776 94.6448) (end 195.9026 94.4198) (width 0.25) (layer "F.Cu") (net 0) (tstamp d02bb942-aa62-4088-a4ac-6d881933f464))
   (segment (start 194.8326 94.1448) (end 194.0526 94.1448) (width 0.25) (layer "F.Cu") (net 0) (tstamp e124801d-a026-4b54-a936-62e3f3cfdcbd))
-  (segment (start 158.73 94.35) (end 156.19 94.35) (width 0.2) (layer "F.Cu") (net 0) (tstamp f8dfa19e-e7a9-4f7e-a68e-3b3ece7941c3))
 
 )
