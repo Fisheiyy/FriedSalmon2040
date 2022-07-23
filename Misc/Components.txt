@@ -1,3 +1,4 @@
+------------------------ MAIN IC CHIPS ------------------------
 https://www.digikey.com/en/products/detail/texas-instruments/TPS5450DDAR/1907919
 https://www.digikey.com/en/products/detail/stmicroelectronics/LD1086DT33TR/669239
 https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC2226-SA-T/1216861
@@ -5,3 +6,52 @@ https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HCT365D-653/123082
 https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AOSS32334C/11567505
 https://www.digikey.com/en/products/detail/onsemi/FDS8896/975867
 https://www.digikey.com/en/products/detail/smc-diode-solutions/BAV99/6022507
+https://shop.pimoroni.com/products/pga2040
+
+------------------------ CONNECTORS ------------------------
+https://shop.pimoroni.com/products/header-pins-and-sockets-for-pga2040
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-A-LF-SN/1651045
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A-LF-SN/1651046
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A-LF-SN/1651047
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/B5B-XH-A-LF-SN/1530483
+https://www.digikey.com/en/products/detail/molex/0423751855/3309866
+https://www.digikey.com/en/products/detail/molex/0423751856/3309867
+https://www.digikey.com/en/products/detail/phoenix-contact/1017503/9346604
+https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441
+
+------------------------ BUTTON ------------------------
+https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825966-1/1680318
+
+------------------------ FUSES ------------------------
+https://www.digikey.com/en/products/detail/yageo/SMD1812B035TF-30/10126705
+https://www.digikey.com/en/products/detail/littelfuse-inc/0297020-WXNV/146599
+
+------------------------ INDUCTOR ------------------------
+https://www.digikey.com/en/products/detail/taiyo-yuden/LBC3225T150KR/2230208
+
+------------------------ LED ------------------------
+https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-HJX32A/9678112
+
+------------------------ DIODES ------------------------
+https://www.digikey.com/en/products/detail/onsemi/SS34/1052384
+
+------------------------ CAPACITORS ------------------------
+https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B223KBCNNNC/3886800
+https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675
+https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A106MBHNNNE/5961220
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FC1V220B/2689764
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1VHG101I/1680363
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1AM331/244984
+
+------------------------ RESISTORS ------------------------
+https://www.digikey.com/en/products/detail/bourns-inc/4606X-102-101LF/1089005
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8BSJR11V/5647719
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J100V/525315
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J101V/525316
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J102V/525317
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8ENF2371V/88934
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8ENF3241V/88960
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J472V/525397
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8GEYJ512V/15429
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J103V/525318
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J203V/525354
