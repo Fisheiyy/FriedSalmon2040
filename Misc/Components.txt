@@ -1,23 +1,25 @@
 ------------------------ MAIN IC CHIPS ------------------------
-https://www.digikey.com/en/products/detail/texas-instruments/TPS5450DDAR/1907919
-https://www.digikey.com/en/products/detail/stmicroelectronics/LD1086DT33TR/669239
-https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC2226-SA-T/1216861
+https://lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TPS5450DDAR_C114425.html
+https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_STMicroelectronics-LD1086DT33TR_C12051.html
+https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC2226-SA-T/12168610
 https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HCT365D-653/1230825
-https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AOSS32334C/11567505
-https://www.digikey.com/en/products/detail/onsemi/FDS8896/975867
+https://lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400C_C541722.html
+https://lcsc.com/product-detail/MOSFETs_onsemi-FDS8896_C241820.html
 https://www.digikey.com/en/products/detail/smc-diode-solutions/BAV99/6022507
 https://shop.pimoroni.com/products/pga2040
 
 ------------------------ CONNECTORS ------------------------
 https://shop.pimoroni.com/products/header-pins-and-sockets-for-pga2040
-https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-A-LF-SN/1651045
-https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A-LF-SN/1651046
-https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A-LF-SN/1651047
-https://www.digikey.com/en/products/detail/jst-sales-america-inc/B5B-XH-A-LF-SN/1530483
-https://www.digikey.com/en/products/detail/molex/0423751855/3309866
-https://www.digikey.com/en/products/detail/molex/0423751856/3309867
-https://www.digikey.com/en/products/detail/phoenix-contact/1017503/9346604
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-XH-2A-B_C2908598.html
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_span-style-background-color-ff0-JST-span-Sales-America-B3B-XH-AM-BK-LF-SN_C565985.html
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-XH-4A-B_C2979570.html
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-C57845_C57845.html
+https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-02-Z-8-5_C2894925.html
+https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-03-Z-8-5_C2894926.html
 https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441
+https://lcsc.com/product-detail/Screw-terminal_DIBO-DB129V-5-0-2P-BK-S_C430592.html
+https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-05-Z-8-5_C2894928.html
+https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-07-Z-8-5_C2894930.html
 
 ------------------------ BUTTON ------------------------
 https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825966-1/1680318
@@ -25,6 +27,7 @@ https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1
 ------------------------ FUSES ------------------------
 https://www.digikey.com/en/products/detail/yageo/SMD1812B035TF-30/10126705
 https://www.digikey.com/en/products/detail/littelfuse-inc/0297020-WXNV/146599
+https://www.digikey.com/en/products/detail/littelfuse-inc/01000063Z/14641003
 
 ------------------------ INDUCTOR ------------------------
 https://www.digikey.com/en/products/detail/taiyo-yuden/LBC3225T150KR/2230208
@@ -34,24 +37,26 @@ https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corpo
 
 ------------------------ DIODES ------------------------
 https://www.digikey.com/en/products/detail/onsemi/SS34/1052384
+https://lcsc.com/product-detail/Diodes-General-Purpose_Shikues-S5BBF_C475750.html
+https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Yangzhou-Yangjie-Elec-Tech-SS54_C211777.html
 
 ------------------------ CAPACITORS ------------------------
-https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B223KBCNNNC/3886800
-https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675
-https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A106MBHNNNE/5961220
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FC1V220B/2689764
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1VHG101I/1680363
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1AM331/244984
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GCM3195C1H223JA16D_C475964.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM31M7U1H104JA01L_C415383.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRT31CR61H106ME01L_C363964.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK325BJ226MM-P_C778721.html
+https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_PANASONIC-ECA1VHG101_C178402.html
+https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_PANASONIC-EEUFS1V331L_C407992.html
 
 ------------------------ RESISTORS ------------------------
 https://www.digikey.com/en/products/detail/bourns-inc/4606X-102-101LF/1089005
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8BSJR11V/5647719
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J100V/525315
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J101V/525316
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J102V/525317
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8ENF2371V/88934
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8ENF3241V/88960
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J472V/525397
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-8GEYJ512V/15429
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J103V/525318
-https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P08J203V/525354
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RL2512FK-070R11L_C876467.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT1206BRD0710RL_C309661.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW1206100RFKEA_C242479.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT1206BRD071KL_C706405.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-AC1210FR-072K37L_C230162.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-AC1210FR-073K24L_C230225.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW12064K70FKEA_C242482.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW12065K10JNEA_C2091752.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW120610K0JNEA_C844646.html
+https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_PANASONIC-ERA8AEB203V_C409041.html
