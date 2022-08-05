@@ -1,6 +1,6 @@
 ------------------------ MAIN IC CHIPS ------------------------
 https://lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TPS5450DDAR_C114425.html
-https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_STMicroelectronics-LD1086DT33TR_C12051.html
+https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html
 https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC2226-SA-T/12168610
 https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HCT365D-653/1230825
 https://lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400C_C541722.html
@@ -32,31 +32,28 @@ https://www.digikey.com/en/products/detail/littelfuse-inc/01000063Z/14641003
 ------------------------ INDUCTOR ------------------------
 https://www.digikey.com/en/products/detail/taiyo-yuden/LBC3225T150KR/2230208
 
------------------------- LED ------------------------
-https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-HJX32A/9678112
-
 ------------------------ DIODES ------------------------
-https://www.digikey.com/en/products/detail/onsemi/SS34/1052384
+https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_MDD-Microdiode-Electronics-SS34_C8678.html
 https://lcsc.com/product-detail/Diodes-General-Purpose_Shikues-S5BBF_C475750.html
-https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Yangzhou-Yangjie-Elec-Tech-SS54_C211777.html
+https://lcsc.com/product-detail/Diodes-General-Purpose_MSKSEMI-SS54-MS_C2902914.html
 
 ------------------------ CAPACITORS ------------------------
-https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GCM3195C1H223JA16D_C475964.html
-https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM31M7U1H104JA01L_C415383.html
-https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRT31CR61H106ME01L_C363964.html
-https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK325BJ226MM-P_C778721.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-UMJ212BB7223KGHT_C651014.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104JBCNNNC_C62912.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM21BR61H106KE43L_C440198.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM21BR61E226ME44L_C86816.html
 https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_PANASONIC-ECA1VHG101_C178402.html
 https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_PANASONIC-EEUFS1V331L_C407992.html
 
 ------------------------ RESISTORS ------------------------
-https://www.digikey.com/en/products/detail/bourns-inc/4606X-102-101LF/1089005
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RL2512FK-070R11L_C876467.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT1206BRD0710RL_C309661.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW1206100RFKEA_C242479.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT1206BRD071KL_C706405.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-AC1210FR-072K37L_C230162.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-AC1210FR-073K24L_C230225.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW12064K70FKEA_C242482.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW12065K10JNEA_C2091752.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Vishay-Intertech-CRCW120610K0JNEA_C844646.html
-https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_PANASONIC-ERA8AEB203V_C409041.html
+https://lcsc.com/product-detail/Resistor-Networks-Arrays_CTS-Electronic-Components-742C083101JP_C2654029.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WW08WR110FTL_C2886142.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-SR0805FR-4710RL_C873760.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD07100RL_C110773.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD071KL_C110774.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-072K37L_C483041.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-073K24L_C228792.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805CRE074K7L_C706301.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD075K1L_C122968.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805CRD0710KL_C868300.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AT0805BRD0720KL_C723531.html
