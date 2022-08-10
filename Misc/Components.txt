@@ -21,9 +21,6 @@ https://lcsc.com/product-detail/Screw-terminal_DIBO-DB129V-5-0-2P-BK-S_C430592.h
 https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-05-Z-8-5_C2894928.html
 https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-07-Z-8-5_C2894930.html
 
------------------------- BUTTON ------------------------
-https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825966-1/1680318
-
 ------------------------ FUSES ------------------------
 https://www.digikey.com/en/products/detail/yageo/SMD1812B035TF-30/10126705
 https://www.digikey.com/en/products/detail/littelfuse-inc/0297020-WXNV/146599
