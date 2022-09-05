@@ -10,7 +10,7 @@ https://shop.pimoroni.com/products/pga2040
 ------------------------ CONNECTORS ------------------------
 https://shop.pimoroni.com/products/header-pins-and-sockets-for-pga2040
 https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-XH-2A-B_C2908598.html
-https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_span-style-background-color-ff0-JST-span-Sales-America-B3B-XH-AM-BK-LF-SN_C565985.html
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-span-Sales-America-B3B-XH-AM-BK-LF-SN_C565985.html
 https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-XH-4A-B_C2979570.html
 https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-C57845_C57845.html
 https://lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-02-Z-8-5_C2894925.html
