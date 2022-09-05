@@ -1,11 +1,10 @@
 ------------------------ MAIN IC CHIPS ------------------------
 https://lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TPS5450DDAR_C114425.html
 https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html
-https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC2226-SA-T/12168610
+https://www.lcsc.com/product-detail/Motor-Driver-ICs_TRINAMIC-Motion-Control-GmbH-TMC2226-SA-T_C705366.html
 https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HCT365D-653/1230825
 https://lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400C_C541722.html
 https://lcsc.com/product-detail/MOSFETs_onsemi-FDS8896_C241820.html
-https://www.digikey.com/en/products/detail/smc-diode-solutions/BAV99/6022507
 https://shop.pimoroni.com/products/pga2040
 
 ------------------------ CONNECTORS ------------------------
@@ -30,6 +29,7 @@ https://www.digikey.com/en/products/detail/littelfuse-inc/01000063Z/14641003
 https://www.digikey.com/en/products/detail/taiyo-yuden/LBC3225T150KR/2230208
 
 ------------------------ DIODES ------------------------
+https://www.lcsc.com/product-detail/Switching-Diode_PANJIT-International-BAV99_C2892256.html
 https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_MDD-Microdiode-Electronics-SS34_C8678.html
 https://lcsc.com/product-detail/Diodes-General-Purpose_Shikues-S5BBF_C475750.html
 https://lcsc.com/product-detail/Diodes-General-Purpose_MSKSEMI-SS54-MS_C2902914.html
