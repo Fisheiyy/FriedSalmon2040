@@ -26,7 +26,7 @@ https://www.digikey.com/en/products/detail/littelfuse-inc/0297020-WXNV/146599
 https://www.digikey.com/en/products/detail/littelfuse-inc/01000063Z/14641003
 
 ------------------------ INDUCTOR ------------------------
-https://www.digikey.com/en/products/detail/taiyo-yuden/LBC3225T150KR/2230208
+https://lcsc.com/product-detail/Inductors-SMD_TDK-NLCV32T-150K-PF_C250186.html
 
 ------------------------ DIODES ------------------------
 https://www.lcsc.com/product-detail/Switching-Diode_PANJIT-International-BAV99_C2892256.html
@@ -50,7 +50,7 @@ https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD07100
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD071KL_C110774.html
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-072K37L_C483041.html
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-073K24L_C228792.html
-https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805CRE074K7L_C706301.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERA6AEB472V_C473295.html
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805BRD075K1L_C122968.html
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0805CRD0710KL_C868300.html
 https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AT0805BRD0720KL_C723531.html
