@@ -381,7 +381,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "rp2040-board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
