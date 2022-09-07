@@ -1,5 +1,7 @@
 # FriedSalmon 2040
  A probably partially-functional RP2040 PGA based 3D Printer Control Board.
+ 
+ [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/14QsYPZ2W0OHOI4rb1B9p2Xh1mv_zn3-QTaiTen--Nhw/edit#gid=1487594272), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/rp2040-board.pdf)
 
 
 # LICENSE
