@@ -1,7 +1,7 @@
 # FriedSalmon 2040
  A RP2040 based 3D Printer Control Board with 4 Integrated TMC2226 Stepper Drivers, PT1000 Support, 3 Fans, 15A Bed or E0 Heater Capability (Not both) and a 6 Pin Expansion Port for uses like more thermistors.
 
-##[iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/14QsYPZ2W0OHOI4rb1B9p2Xh1mv_zn3-QTaiTen--Nhw/edit#gid=1487594272), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/rp2040-board.pdf)
+## [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/14QsYPZ2W0OHOI4rb1B9p2Xh1mv_zn3-QTaiTen--Nhw/edit#gid=1487594272), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/rp2040-board.pdf)
 
 
 # LICENSE
