@@ -21,4 +21,4 @@
 
 # PICTURES
  ## V2 Development Picture
-  [![FriedSalmon 2040 V2-Indev Picture](pics/v2-indev-pic-1.png)]
+ ![FriedSalmon 2040 V2-Indev Picture](pics/v2-indev-pic-1.png)
