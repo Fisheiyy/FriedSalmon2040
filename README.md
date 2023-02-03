@@ -1,12 +1,12 @@
 # FriedSalmon2040
  A RP2040 based 3D Printer Motherboard with 4 Integrated TMC2226 Stepper Drivers, PT1000 Support, 3 PWM Fans, 15A **Total** Heater Capability, 3 Expansion GPIO/3 Expansion Power IO
 
-## [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/18_6saM__RWSnnuOeO-IjOmcjcUNBl_MXiw4yVhhykyQ/edit#gid=1487594272), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/rp2040-board.pdf) <br><br> Inspired by BigTreeTech SKR Mini E3 line <br> Made for the Voron & Klipper Communities
+## [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/FriedSalmon2040/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/18_6saM__RWSnnuOeO-IjOmcjcUNBl_MXiw4yVhhykyQ/edit#gid=1487594272), [Schematic](https://github.com/Fisheiyy/FriedSalmon2040/blob/main/rp2040-board.pdf) <br><br> Inspired by BigTreeTech SKR Mini E3 line <br> Made for the Voron & Klipper Communities
 <hr>
 
 # PICTURES
  ### V2 Development Picture
- ![FriedSalmon2040 V2 Indev Picture](pics/v2-indev-pic-1.png)
+ ![FriedSalmon2040 V2 Indev Picture](Pics/v2-indev-pic-1.png)
 <hr>
 
 # LICENSE
