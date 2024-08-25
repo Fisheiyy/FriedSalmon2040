@@ -1,3 +1,6 @@
+# THIS PROJECT HAS BEEN ABANDONED
+
+
 # FriedSalmon2040
  A RP2040 based 3D Printer Motherboard with 4 Integrated TMC2226 Stepper Drivers, PT1000 Support, 3 PWM Fans, 15A **Total** Heater Capability, 3 Expansion GPIO/3 Expansion Power IO
 
